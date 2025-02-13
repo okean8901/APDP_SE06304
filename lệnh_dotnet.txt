@@ -1,0 +1,8 @@
+dotnet --info //check phiên bản c#
+dotnet new console -n CalculatorApp //tạo dự án mới 
+dotnet new xunit -n CalculatorTests // tạo dự án kiểm thử 
+dotnet new sln trong .NET CLI được sử dụng để tạo một giải pháp (solution) mới. Một giải pháp là một cách tổ chức và quản lý nhiều dự án 
+
+dotnet sln add CalculatorApp/CalculatorApp.csproj
+dotnet sln add CalculatorTests/CalculatorTests.csproj
+dotnet add reference ../CalculatorApp/CalculatorApp.csproj
