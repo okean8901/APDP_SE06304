@@ -103,3 +103,4 @@ T:\Source code c#\APDP_TESTING\CalculatorTests\obj\Debug\net9.0\refint\Calculato
 T:\Source code c#\APDP_TESTING\CalculatorTests\obj\Debug\net9.0\CalculatorTests.pdb
 T:\Source code c#\APDP_TESTING\CalculatorTests\obj\Debug\net9.0\CalculatorTests.genruntimeconfig.cache
 T:\Source code c#\APDP_TESTING\CalculatorTests\obj\Debug\net9.0\ref\CalculatorTests.dll
+T:\Source code c#\APDP_TESTING\CalculatorTests\obj\Debug\net9.0\CalculatorTests.sourcelink.json

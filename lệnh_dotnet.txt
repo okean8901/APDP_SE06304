@@ -5,4 +5,6 @@ dotnet new sln trong .NET CLI được sử dụng để tạo một giải phá
 
 dotnet sln add CalculatorApp/CalculatorApp.csproj
 dotnet sln add CalculatorTests/CalculatorTests.csproj
+
+//cd vào test file name
 dotnet add reference ../CalculatorApp/CalculatorApp.csproj

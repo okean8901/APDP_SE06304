@@ -14,7 +14,7 @@ namespace CalculatorTests
             //gọi hàm add với tham số 1 và 2
             var result = calculator.Add(1, 2); // khai báo là var để c# tự nhận biết kiểu dữ liệu
 
-            Assert.Equal(3, result); //kết quả mong đợi là 3
+            Assert.Equal(4, result); //kết quả mong đợi là 3
             
         }
 
@@ -56,7 +56,6 @@ namespace CalculatorTests
             Assert.Equal(1, result);
         }
         
-
         //TEST VỚI NHIỀU DỮ LIỆU ĐẦU VÀO KHÁC NHAU 
         [Theory] //đánh dấu hàm test với nhiều dữ liệu đầu vào khác nhau 
         [InlineData(1, 2, 3)] //dữ liệu đầu vào, kết quả mong đợi là 3 (a = 1, b = 2, expected = 3)

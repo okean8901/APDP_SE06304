@@ -12,3 +12,4 @@ T:\Source code c#\APDP_TESTING\CalculatorApp\obj\Debug\net9.0\refint\CalculatorA
 T:\Source code c#\APDP_TESTING\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 T:\Source code c#\APDP_TESTING\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 T:\Source code c#\APDP_TESTING\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
+T:\Source code c#\APDP_TESTING\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
